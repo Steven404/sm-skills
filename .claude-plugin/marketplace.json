@@ -1,11 +1,11 @@
 {
-  "name": "stefanos-skills",
-  "owner": { "name": "Stefanos" },
+  "name": "sm-skills",
+  "owner": { "name": "steven404" },
   "plugins": [
     {
-      "name": "s-orchestrator",
+      "name": "sm-skills",
       "source": "./",
-      "description": "Personal orchestration ruleset"
+      "description": "Agent orchestration ruleset"
     }
   ]
 }
