@@ -1,0 +1,11 @@
+{
+  "name": "stefanos-skills",
+  "owner": { "name": "Stefanos" },
+  "plugins": [
+    {
+      "name": "s-orchestrator",
+      "source": "./",
+      "description": "Personal orchestration ruleset"
+    }
+  ]
+}
